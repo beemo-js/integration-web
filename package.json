@@ -1,0 +1,27 @@
+{
+  "name": "beemo-web",
+  "version": "0.0.1",
+  "description": "Web integration for Beemo.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beemo-js/integration-web.git"
+  },
+  "keywords": [
+    "beemo",
+    "web"
+  ],
+  "author": "Antarès Tupin <antares.tupin@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/beemo-js/integration-web/issues"
+  },
+  "homepage": "https://github.com/beemo-js/integration-web#readme",
+  "dependencies": {
+    "beemo-lib": "<1.0.0"
+  }
+}
